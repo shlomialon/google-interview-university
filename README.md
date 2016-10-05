@@ -165,9 +165,9 @@ from public sources and replacing the online course videos over time. I like usi
 ## Interview Process & General Interview Prep
 
 - [x] Videos:
-    - [x] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
-    - [x] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
-    - [x] https://www.youtube.com/watch?v=8npJLXkcmu8
+    - [] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
+    - [] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
+    - [] https://www.youtube.com/watch?v=8npJLXkcmu8
 
 - [x] Articles:
     - [x] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
@@ -205,7 +205,7 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [x] **How computers process a program:**
+- [] **How computers process a program:**
     - [x] https://www.youtube.com/watch?v=42KTvGYQYnA
     - [x] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
